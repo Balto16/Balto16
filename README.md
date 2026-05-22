@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Irving Nieto 👋</h1>
+<h1 align="center">Hi, I'm Irving Nieto</h1>
 <h3 align="center">Electromechanical Engineer · Researcher · University Lecturer 🇵🇦</h3>
 
 <br/>
